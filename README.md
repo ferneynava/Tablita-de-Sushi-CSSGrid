@@ -1,6 +1,8 @@
 # Reto de desarrollo Web
 Dibujo de una deliciosa 🤤 tablita de Sushi con CSS Grid, sin hacer uso de imagenes este delicioso platillo se desarrolla con etiquetas de HTML y estilos en CSS. 
+![Imagen de muestra](https://i.ibb.co/jWfvtmV/Captura-de-pantalla-2022-04-11-195544.png)
 ![CSS GRID](https://i.ibb.co/VVYggkP/Captura-de-pantalla-2022-04-11-110803.png)
+
 
 ## Herramientas 🔧
 - HTML
